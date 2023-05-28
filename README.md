@@ -1,4 +1,4 @@
-# Hi, I'm Arpit Sharma! 👋
+# Hi, I'm Arpit! 👋
 
 - 🤖 I'm passionate about Machine Learning and Deep Learning.
 - 🌱 I'm currently learning and exploring cutting-edge techniques in the field.
