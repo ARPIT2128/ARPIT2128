@@ -1,4 +1,4 @@
-# Hi There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px">! <br> I'm Arpit ,Welcome To My Github Page!<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" width="31px" height="31px"></br>
+# Hi There <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="42px" height="42px">! <br> I'm Arpit ,Welcome To My Github Page!<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" width="31px" height="31px"></br>
 
 
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Robot.png" width="23px" height="23px"> I'm passionate about Machine Learning and Deep Learning.
