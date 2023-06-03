@@ -5,7 +5,7 @@
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Seedling.png" width="23px" height="23px"> I'm currently learning and exploring cutting-edge techniques in the field.
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" width="23px" height="23px"> I'm looking to collaborate on exciting ML/DL projects and research.
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" width="23px" height="23px"> You can reach me at arpitsharma2128@gmail.com/[Linkedin<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Nerd%20Face.png" width="23px" height="23px">](https://www.linkedin.com/in/arpit-sharma-b3a565222/).
-- Looking forward to collaborating on exciting ML/DL projects and exchanging ideas with like-minded individuals! <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" width="23px" height="23px">
+
 ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Robot.png" width="31px" height="31px">About Me
 
 I'm an enthusiastic Machine Learning and Deep Learning practitioner, constantly fascinated by the power of AI to solve real-world problems. I enjoy working with large datasets, designing models, and pushing the boundaries of what AI can achieve.
