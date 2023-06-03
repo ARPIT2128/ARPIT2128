@@ -1,4 +1,5 @@
-# Hi, I'm Arpit! 👋
+# Hi There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px">! <br> I'm Arpit ,Welcome To My Github Page!😄</br>
+
 
 - 🤖 I'm passionate about Machine Learning and Deep Learning.
 - 🌱 I'm currently learning and exploring cutting-edge techniques in the field.
