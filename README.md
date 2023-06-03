@@ -10,7 +10,7 @@
 
 I'm an enthusiastic Machine Learning and Deep Learning practitioner, constantly fascinated by the power of AI to solve real-world problems. I enjoy working with large datasets, designing models, and pushing the boundaries of what AI can achieve.
 
-## 🚀Projects
+## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Rocket.png " width="31" height="31">Projects
 
 I've worked on various ML/DL projects, demonstrating my skills and knowledge in the field. Some of my notable projects include:
 
