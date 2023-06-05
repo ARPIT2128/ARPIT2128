@@ -25,12 +25,12 @@ Feel free to explore my repositories for more details on my projects!
 Here are some of my beginner-level ML/DL skills:
 
 - Intermediate-level Machine Learning Algorithms: Linear Regression, Decision Trees, Random Forests, Support Vector Machines, Neural Networks, etc.
-- Beginner-level Deep Learning Frameworks: TensorFlow, Keras, PyTorch
-- Beginner-level Natural Language Processing (NLP)
-- Beginner-level Computer Vision
-- Beginner-level Data Preprocessing and Feature Engineering
-- Beginner-level Model Evaluation and Metrics
-- Beginner-level Data Visualization
+- Beginner-level Deep Learning Frameworks: TensorFlow, Keras, PyTorch.
+- Beginner-level Natural Language Processing (NLP).
+- Beginner-level Computer Vision.
+- Beginner-level Data Preprocessing and Feature Engineering.
+- Beginner-level Model Evaluation and Metrics.
+- Beginner-level Data Visualization.
 
 
 ### <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Star-Struck.png" width="30px" height="30px"> My Tech Stack:
