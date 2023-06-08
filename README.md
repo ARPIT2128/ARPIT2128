@@ -12,7 +12,7 @@ I'm an enthusiastic Machine Learning and Deep Learning practitioner, constantly 
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Rocket.png" width="31px" height="31px">Projects
 
-I've worked on various ML/DL projects, demonstrating my skills and knowledge in the field. Some of my notable projects include:
+I've worked on various ML/DL projects, demonstrating my skills and knowledge in the field. Some of my notable projects include :
 
 - Project 1: Alzheimer's disease Classification using Convolutional Neural Networks(working..<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Upside-Down%20Face.png" width="23px" height="23px">).
 - Project 2: Rainfall Classificaion using Machine Learning(Loading..<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Upside-Down%20Face.png" width="23px" height="23px">).
