@@ -50,6 +50,7 @@ I'm a beginner in these skills but constantly striving to improve and deepen my 
 
 ![](https://github-contributor-stats.vercel.app/api?username=ARPIT2128&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
 
+[![ARPIT2128's GitHub | Stats](https://stats.quine.sh/ARPIT2128/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ARPIT2128) [![ARPIT2128's GitHub | Dependencies](https://stats.quine.sh/ARPIT2128/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ARPIT2128)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ARPIT2128&icon=5&color=6)](https://visitcount.itsvg.in)
